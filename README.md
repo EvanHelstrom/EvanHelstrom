@@ -11,3 +11,8 @@ framework!
 - 🌱 I’m currently learning about Computer Hardware (ISA Design), Deep Learning Networks, as well as Advanced Algorithm Design.
 - 📫 I can always be reached by connecting with me on [LinkedIn](https://www.linkedin.com/in/evanquist/)! I'm always interested in new oppertunities or projects, so feel free
 to reach out, even if its just to chat!
+
+[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanhelstrom&theme=cobalt&hide=stars,prs)](https://github.com/evanhelstrom)
+
+
+[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhelstrom&theme=cobalt&hide=html,css)](https://github.com/evanhelstrom)
