@@ -4,7 +4,8 @@
 organizations like [State Farm](), [JoshuaOneNine](https://joshuaonenine.media/) and the [McLean County Small Business Development Center](https://www.mcleancosbdc.org/)!
 My favorite languages are Python and Java but I am proficient in several others! I love to compete in Hackathons and spread the word of programming across all fields, and am
 always looking for new competitions to partake in!
-- 🎓 I currently attend Illinois Wesleyan University!
+- 🎓 I currently attend Illinois Wesleyan University! I am involved in our campus chapter of ACM, where I am the President, and several other clubs including ASL Club, IEEE, SPS,
+and Karate Club.
 - 💻 Additionally I work as an Intern at State Farm Insurance in Software Development creating full stack applications and doing SEO evaluations! On campus I am a Residence Community Advisor where I oversee RAs in one of the Freshman Halls, and I work as a Titan Ambassador in the Admissions Office giving tours and meeting with prospective students!
 - 👀 I’m currently interested in full stack application development as well as deep learning! In my free time I am working on several projects including a DeepFake detection
 network powered by co-occurrence matrices, a restaurant locator app for groups, and a robotic dog based on the [Spot Micro](https://spotmicroai.readthedocs.io/en/latest/)
