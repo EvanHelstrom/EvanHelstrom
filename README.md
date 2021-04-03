@@ -1,4 +1,4 @@
-[![Header](https://github.com/EvanHelstrom/EvanHelstrom/blob/2df80029a1980e000151976c4a29e62f3353dc13/Header.png "Header")](https://www.linkedin.com/in/evanquist/)
+[![Header](https://github.com/EvanHelstrom/EvanHelstrom/blob/95355f7ab4c8079cb865fade54b15ef9a48d5eb7/Software%20Engineer.png "Header")](https://www.linkedin.com/in/evanquist/)
 # Hi Everyone!
 - 👋 Hi, I’m @EvanHelstrom, but you can call me Evan! I'm a second year Computer Science major with two minors in Data Science and Finance and aspiring Software Engineer! I've worked on real projects for
 organizations like [State Farm](), [JoshuaOneNine](https://joshuaonenine.media/) and the [McLean County Small Business Development Center](https://www.mcleancosbdc.org/)!
