@@ -2,7 +2,7 @@
 💻 I'm a fourth year Computer Science major with two minors in Data Science and Finance and aspiring Software Engineer! I've worked on real projects for
 organizations like [State Farm](), [JoshuaOneNine](https://joshuaonenine.media/) and the [McLean County Small Business Development Center](https://www.mcleancosbdc.org/)! I'm currently working as a Software Engineering Intern at Meta <br>👀 I'm looking for new full-time opportunities starting 2023. I’m also interested in full stack application development as well as deep learning! In my free time I am working on several projects including a DeepFake detection
 network powered by co-occurrence matrices, a restaurant locator app for groups, and a robotic dog based on the [Spot Micro](https://spotmicroai.readthedocs.io/en/latest/)
-framework!<br>🌱 Currently, I'm leaning about Artificial Intelligence and Language Compilation<br>📫 Reach out to me on LinkedIn to talk about new projects!<br>⚡ In my free time I love talking about the stock market!<br> <br>
+framework!<br>🌱 Currently, I'm leaning about Artificial Intelligence and Language Compilation<br>📫 Reach out to me on LinkedIn to talk about new projects!<br>⚡ In my free time I love talking about data analytics for sports, the stock market, and TV shows!<br> <br>
 
 
 ## 🌐 Socials:
